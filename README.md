@@ -1,3 +1,12 @@
+# Coding-Assignment-IEM-Day-2-WEEK-5
+Coding Class Week 5 : Rat Maze problem.
+
+Screenshots of code and output images : 
+![image](https://user-images.githubusercontent.com/49288068/78329454-643a1780-759f-11ea-938b-f0a682294393.png)
+![image](https://user-images.githubusercontent.com/49288068/78329493-7ae06e80-759f-11ea-8c4d-3cd728e1db90.png)
+
+___________________________________________________________________________________________________________________________________________
+
 # Coding-Assignment-IEM-Day-1
 Coding Class Day 1 : Sum of two numbers stored in linked list using Stack data structure
 
